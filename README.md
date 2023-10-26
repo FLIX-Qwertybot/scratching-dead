@@ -4,5 +4,6 @@ Resources for an open-source scratch game I made. If you like our work, please g
 Credits:
 Developers: FLIX Qwertybot
 Graphic Designers: FLIX Qwertybot, Suroi devs
-Some gun images from Suroi
-Ground weapon PNGs are from google images
+
+Some gun images from Suroi,
+Ground weapon PNGs are from Google images
