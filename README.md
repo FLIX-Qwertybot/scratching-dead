@@ -1,7 +1,7 @@
 # scratching-dead
-Join Scratch studio follow instructions in description to help develop
+The walking dead from wish.com
 
-Resources for an open-source scratch game I made. If you like our work, please give credit to whoever contributed what you're using!
+Join Scratch studio follow instructions in description to help develop
 
 To apply for the dev team, put your name in the developers section!
 
