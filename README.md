@@ -3,7 +3,7 @@ The walking dead from wish.com
 
 Join Scratch studio follow instructions in description to help develop
 
-To apply for the dev team, put your name in the developers section!
+To apply for the dev team, put your name in the developers section and comment on my scratch profile (https://scratch.mit.edu/users/Qwertybot_/)!
 
 Credits:
 
